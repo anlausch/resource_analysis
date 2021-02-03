@@ -13,9 +13,9 @@ The corpus is available here: http://data.dws.informatik.uni-mannheim.de/sci-arg
 ## Giving Credit
 If you use the corpus or the code in any way please cite our corresponding publication:
 
-A. Lauscher, G. Glavaš und S. P. Ponzetto, “An Argument-Annotated Corpus of Scientific Publications”, in Proceedings of the 5th Workshop on Argument Mining at EMNLP 2018, Brussels, Belgium: Association for Computational Linguistics, 2018, tba.
+A. Lauscher, G. Glavaš und S. P. Ponzetto, “An Argument-Annotated Corpus of Scientific Publications”, in Proceedings of the 5th Workshop on Argument Mining at EMNLP 2018, Brussels, Belgium: Association for Computational Linguistics, 2018, 40‒46.
 
-Bibtex:
+BibTeX:
 ```bibtex
 @inproceedings{lauscher2018,
   address = {Brussels, Belgium},
@@ -24,8 +24,8 @@ Bibtex:
   publisher = {{Association for Computational Linguistics}},
   author = {Lauscher, Anne and Glavaš, Goran and Ponzetto, Simone Paolo},
   year = {2018},
-  url={https://ub-madoc.bib.uni-mannheim.de/46084/1/argmining-18-multi%20%289%29.pdf},
-  pages = {tba}
+  url = {https://madoc.bib.uni-mannheim.de/46084/},
+  pages = {40--46}
 }
 ```
 
